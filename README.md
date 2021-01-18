@@ -1,2 +1,1 @@
-# openshift
-Test per deploy su OpenShift
+Test per deploy Openshift
